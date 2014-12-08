@@ -1,0 +1,11 @@
+@font-face{ 
+	font-family: 'myfonte';
+	src: url('roboto-thin-webfont.eot');
+	src: url('roboto-thin-webfont.eot?#iefix') format('embedded-opentype'),
+	     url('roboto-thin-webfont.woff') format('woff'),
+	     url('roboto-thin-webfont.ttf') format('truetype'),
+	     url('roboto-thin-webfont.svg#webfont') format('svg');
+}
+
+h1{font-family:'myfonte';}
+.fonte1{font-family:'myfonte'}
